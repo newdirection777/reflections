@@ -1,0 +1,11 @@
+L1
+
+git log shows the commit ids and commit messages for previous commits.
+by reading the commit messages, one gets an idea of the evolution of the project.
+by doing a git diff, one can see the specific changes made in a particular commit.
+
+using vers. contr.  makes me more confident to make changes, knowing that
+if things go bad, I can revert to a previous version that works.
+
+
+I'll use git when developing my programs, games, apps, and udacity projects.
