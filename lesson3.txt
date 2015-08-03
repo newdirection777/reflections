@@ -7,4 +7,6 @@ Why might you want to always pull changes manually rather
 than having Git automatically stay up-to-date with your remote repository?
 
 I might be working on my local repo (say, fixing a bug), and I don't want to pull any
-changes from the remote until I'm done.
+changes from the remote until I'm done. When fixing a bug, it is best not to 
+add any more changes until the bug is fixed.  Otherwise, it becomes harder to
+track down the source of the bug.
