@@ -10,3 +10,18 @@ I might be working on my local repo (say, fixing a bug), and I don't want to pul
 changes from the remote until I'm done. When fixing a bug, it is best not to 
 add any more changes until the bug is fixed.  Otherwise, it becomes harder to
 track down the source of the bug.
+
+
+fork - copy of a GitHub repo.  both original and copy reside on GitHub.
+
+clone - copy of another repo (could be a fork) that resides on your local 
+computer
+
+
+branch - label for a commit.
+
+use fork to make a copy of a repo on GitHub.
+
+use clone to make a local copy of a repo.
+
+use branch to track a series of related changes to the project.
