@@ -29,3 +29,8 @@ use branch to track a series of related changes to the project.
 
 Having a local copy of the remote allows me to work with the remote even
 when I don't have internet access.
+
+Without github collaborators could share files using other means like emailing
+tarballs to each other or using dropbox.  this makes it a lot harder to make
+sure everyone is working on the same file versions.  on the other hand, if the
+project is private, no money has to be spent on getting a private github repo.
