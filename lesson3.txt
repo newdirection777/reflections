@@ -34,3 +34,9 @@ Without github collaborators could share files using other means like emailing
 tarballs to each other or using dropbox.  this makes it a lot harder to make
 sure everyone is working on the same file versions.  on the other hand, if the
 project is private, no money has to be spent on getting a private github repo.
+
+
+making changes in a separate branch offers the opportunity to check changes
+and make sure everything is OK before merging into the master.  If we are 
+sure the changes are good, then it is simpler and faster to make a change 
+directly on the master.
