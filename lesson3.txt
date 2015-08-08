@@ -25,3 +25,7 @@ use fork to make a copy of a repo on GitHub.
 use clone to make a local copy of a repo.
 
 use branch to track a series of related changes to the project.
+
+
+Having a local copy of the remote allows me to work with the remote even
+when I don't have internet access.
